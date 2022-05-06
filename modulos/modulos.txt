@@ -1,0 +1,4 @@
+Módulos são como classes, podem ter variáveis, constantes, métodos
+porém a grande diferença entre módulos e classes vem do fato de 
+que os módulos não podem ser instaciados, nem herdados, você deve 
+chamar o módulo para utilizar suas funções.
